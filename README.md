@@ -1,1 +1,1 @@
-# QFT_on_3qubit
+Qskit Implementation of Quantum Fourier Transform on 3 qubit.
